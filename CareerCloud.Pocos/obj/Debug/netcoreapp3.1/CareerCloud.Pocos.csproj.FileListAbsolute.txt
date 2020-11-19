@@ -1,0 +1,18 @@
+C:\Users\SEJAL DAVE BIHOLA\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.deps.json
+C:\Users\SEJAL DAVE BIHOLA\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Users\SEJAL DAVE BIHOLA\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Users\SEJAL DAVE BIHOLA\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.csprojAssemblyReference.cache
+C:\Users\SEJAL DAVE BIHOLA\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\SEJAL DAVE BIHOLA\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\SEJAL DAVE BIHOLA\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\SEJAL DAVE BIHOLA\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Users\SEJAL DAVE BIHOLA\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Users\sejal\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.deps.json
+C:\Users\sejal\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Users\sejal\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Users\sejal\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\sejal\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\sejal\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\sejal\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Users\sejal\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Users\sejal\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.1\CareerCloud.Pocos.csprojAssemblyReference.cache
